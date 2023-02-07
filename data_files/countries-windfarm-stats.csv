@@ -1,0 +1,130 @@
+Country,Continent,Wind farms,onshore,offshore,Capacity (MW)
+Albania,Europe,1,1,0,150
+Algeria,Africa,1,1,0,31
+Argentina,South America,72,72,0,"3,816"
+Armenia,Asia,2,2,0,4
+Australia,Oceania,150,123,27,"64,393"
+Austria,Europe,280,280,0,"3,450"
+Azerbaijan,Asia,5,3,2,455
+Bahrain,Asia,2,2,0,3
+Bangladesh,Asia,3,2,1,403
+Barbados,North America,2,2,0,12
+Belarus,Europe,7,7,0,37
+Belgium,Europe,241,231,10,"5,117"
+Bhutan,Asia,1,1,0,1
+Bolivia,South America,5,5,0,135
+Bosnia and Herzegovina,Europe,3,3,0,135
+Brazil,South America,430,371,59,"165,307"
+Bulgaria,Europe,51,51,0,769
+Cambodia,Asia,1,1,0,1
+Canada,North America,320,315,5,"19,093"
+Cape Verde,Africa,6,6,0,28
+Chad,Africa,1,1,0,2
+Chile,South America,60,60,0,"5,610"
+China,Asia,"3,968","3,721",247,"375,027"
+Colombia,South America,7,7,0,586
+Costa Rica,North America,18,18,0,414
+Croatia,Europe,26,26,0,980
+Cuba,North America,6,6,0,163
+Curaçao,South America,3,3,0,48
+Cyprus,Europe,6,6,0,165
+Czech Republic,Europe,74,74,0,343
+Denmark,Europe,"1,803","1,750",53,"33,443"
+Djibouti,Africa,1,1,0,59
+Dominica,North America,1,1,0,1
+Dominican Republic,North America,9,9,0,462
+Ecuador,South America,4,4,0,79
+Egypt,Africa,12,12,0,"1,890"
+El Salvador,North America,1,1,0,54
+Eritrea,Africa,1,1,0,1
+Estonia,Europe,62,31,31,"24,492"
+Ethiopia,Africa,6,6,0,665
+Faroe Islands,Europe,6,6,0,51
+Fiji,Oceania,1,1,0,11
+Finland,Europe,271,251,20,"16,544"
+France,Europe,"1,446","1,428",18,"23,980"
+Gambia,Africa,1,1,0,1
+Georgia,Asia,1,1,0,21
+Germany,Europe,"6,128","6,084",44,"70,514"
+Ghana,Africa,1,1,0,150
+Greece,Europe,261,253,8,"4,766"
+Grenada,North America,1,1,0,2
+Guam,Oceania,1,1,0,1
+Guatemala,North America,3,3,0,108
+Honduras,North America,4,4,0,239
+Hungary,Europe,35,35,0,385
+Iceland,Europe,2,2,0,5
+India,Asia,765,753,12,"45,314"
+Indonesia,Oceania,3,3,0,148
+Iran,Asia,18,18,0,513
+Ireland,Europe,300,257,43,"49,236"
+Israel,Asia,4,4,0,130
+Italy,Europe,476,435,41,"44,164"
+Jamaica,North America,7,6,1,103
+Japan,Asia,410,316,94,"55,517"
+Jordan,Asia,8,8,0,622
+Kazakhstan,Asia,15,15,0,748
+Kenya,Africa,5,4,1,474
+Kosovo,Europe,3,3,0,147
+Kuwait,Asia,1,1,0,10
+Latvia,Europe,13,11,2,"1,512"
+Lithuania,Europe,72,70,2,"2,254"
+Luxembourg,Europe,21,21,0,153
+Mauritania,Africa,3,3,0,137
+Mauritius,Africa,2,2,0,11
+Mexico,North America,78,78,0,"8,519"
+Micronesia,Oceania,1,1,0,1
+Mongolia,Asia,7,7,0,156
+Montenegro,Europe,2,2,0,123
+Morocco,Africa,19,19,0,"1,958"
+Mozambique,Africa,2,2,0,121
+Namibia,Africa,2,2,0,6
+Netherlands,Europe,654,636,18,"10,431"
+New-Zealand,Oceania,23,23,0,"1,224"
+Nicaragua,North America,5,5,0,187
+Nigeria,Africa,1,1,0,11
+North Macedonia,Europe,3,3,0,87
+Norway,Europe,83,72,11,"9,581"
+Oman,Asia,1,1,0,50
+Pakistan,Asia,22,22,0,"1,236"
+Panama,North America,2,2,0,336
+Peru,South America,10,10,0,778
+Philippines,Oceania,31,13,18,"12,629"
+Poland,Europe,352,323,29,"24,306"
+Portugal,Europe,263,259,4,"5,620"
+Puerto Rico,North America,6,6,0,129
+Romania,Europe,76,74,2,"5,469"
+Russia,Asia,30,29,1,"1,801"
+Saint Kitts and Nevis,North America,1,1,0,3
+Samoa,Oceania,1,1,0,1
+Saudi Arabia,Asia,4,3,1,922
+Senegal,Africa,1,1,0,115
+Serbia,Europe,16,16,0,"1,343"
+Seychelles,Africa,1,1,0,6
+Singapore,Asia,1,1,0,1
+Slovakia,Europe,3,3,0,4
+Slovenia,Europe,2,2,0,4
+South Africa,Africa,38,38,0,"3,560"
+South Korea,Asia,160,69,91,"45,608"
+Spain,Europe,"1,248","1,193",55,"39,751"
+Sri Lanka,Asia,18,17,1,544
+Sudan,Africa,1,1,0,125
+Sweden,Europe,"1,114","1,056",58,"88,302"
+Switzerland,Europe,14,14,0,101
+Syria,Asia,1,1,0,3
+Taiwan,Asia,104,34,70,"61,314"
+Tanzania,Africa,3,2,1,903
+Thailand,Asia,32,32,0,"1,569"
+The Bahamas,North America,1,1,0,1
+Tonga,Oceania,1,1,0,2
+Tunisia,Africa,3,3,0,243
+Turkey,Asia,249,249,0,"11,164"
+Ukraine,Europe,42,42,0,"2,249"
+United Arab Emirates,Asia,1,1,0,1
+United-Kingdom,Europe,"1,203","1,068",135,"106,806"
+Uruguay,South America,48,48,0,"1,645"
+USA,North America,"1,662","1,614",48,"193,339"
+Uzbekistan,Asia,1,1,0,1
+Vanuatu,Oceania,1,1,0,4
+Venezuela,South America,2,2,0,126
+Vietnam,Asia,122,56,66,"69,356"

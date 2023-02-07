@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+    <name><![CDATA[List of wind farms in the Republic of Ireland]]></name>
+    <open>1</open>
+    <Folder>
+        <name><![CDATA[Operating]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Altagowlan Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.15159722222222,54.1098333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#Operating">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Anarget Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.1689,54.7553,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-2">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Arklow Bank Wind Park]]></name>
+            <Point>
+                <coordinates>-5.949,52.789,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-2">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Astellas Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.7796,52.1116,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-2">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Athea Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.2909,52.4408,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-2">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ballincollig Hill Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.5857,52.3104,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-3">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ballinlough/Ikerrin Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.0113,52.83,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-3">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ballinveny Wind Farm]]></name>
+            <Point>
+                <coordinates>-7.93847222222222,52.8253888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-3">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ballybane Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.3762,51.6329,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-3">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ballymartin Wind Farm]]></name>
+            <Point>
+                <coordinates>-7.1067,52.3882,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-4">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Ballywater Wind Farm]]></name>
+            <Point>
+                <coordinates>-6.2396,52.5353,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-5">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bawnmore 1 Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.9138,51.9533,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-5">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bawnmore 2 Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.0207,51.9905,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-5">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Barnesmore Wind Farm]]></name>
+            <Point>
+                <coordinates>-7.9358,54.6966,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-5">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Beal Hill 1 Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.6326,52.5643,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-6">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Beallough Wind Farm]]></name>
+            <Point>
+                <coordinates>-7.348,52.2718,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-6">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Beam Hill Wind Farm]]></name>
+            <Point>
+                <coordinates>-7.4402,55.1982,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-6">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Beenageeha Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.5618,52.3307,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-6">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bellacorick Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.5872,54.1125,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-b9home_1-1">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Bindoo Wind Farm]]></name>
+            <Point>
+                <coordinates>-7.107,54.0121,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-b9home_1-1">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Blackbanks Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.1911,54.1444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-7">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Boggeragh Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.8987,52.0505,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-esbihome_8-1">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Caherdowney Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.1174,52.0011,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-swshome_10-0">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Carrigcannon Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.8992,52.0703,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-esbihome_8-3">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Cloghboola Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.4382,52.3358,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-esbihome_8-3">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[ClydaghroeWind Farm]]></name>
+            <Point>
+                <coordinates>-9.1582,51.9894,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-esbihome_8-3">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Coomacheo Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.1459,52.0144,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-esbihome_8-3">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Coomatallin Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.09427,51.65085,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-12">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[CorneenWind Farm]]></name>
+            <Point>
+                <coordinates>-7.64436,54.1432,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-13">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Crocane Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.15664,51.843118,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-ecowindpowerhome_15-0">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Cuillalea]]></name>
+            <Point>
+                <coordinates>-9.071226,53.848557,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-17">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Curragh Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.1111,52.0081,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-18">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Derrybrien Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.6063,53.0933,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-20">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Derrynadivva]]></name>
+            <Point>
+                <coordinates>-9.340825,53.910412,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-esbihome_8-5">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Dromada Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.2122,52.4462,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-esbihome_8-5">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Dromadda Beg Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.4528,52.3309,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-21">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Galway Wind Park]]></name>
+            <Point>
+                <coordinates>-9.3698,53.3554,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-swshome_10-1">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Garracummer Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.1475,52.6437,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-23">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Gartnaneane Wind Farm]]></name>
+            <Point>
+                <coordinates>-6.9354,53.9458,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-23">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Glenough Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.0552,52.6419,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-b9home_1-4">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Gneeves Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.1236,52.0127,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-25">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Gortahile Wind Farm]]></name>
+            <Point>
+                <coordinates>-7.0624,52.8147,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-swshome_10-2">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[GreenogeWind Farm]]></name>
+            <Point>
+                <coordinates>-6.7288,52.6589,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-26">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Indreabhán Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.3697,53.2647,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-27">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kilgarvan Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.32601944444444,51.9346361111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-SWS_page_on_Kilgarvan_29-0">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kilronan Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.8427,54.43066,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-30">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Kingsmountain Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.7937,54.1989,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-30">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Knockalough Wind Farm]]></name>
+            <Point>
+                <coordinates>-9.26,53.3066,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-31">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Knockduff Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.8309,52.0316,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-swshome_10-5">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Largan Hill Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.333123,53.564576,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-swshome_10-5">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Lenanavea]]></name>
+            <Point>
+                <coordinates>-9.350513,53.924083,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-b9home_1-5">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mace Upper]]></name>
+            <Point>
+                <coordinates>-8.969715,53.770843,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-swshome_10-6">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Meentycat Wind Farm]]></name>
+            <Point>
+                <coordinates>-7.8516,54.8646,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-b9home_1-6">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mountlucas Wind Farm]]></name>
+            <Point>
+                <coordinates>-7.2369,53.2713,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-b9home_1-8">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Mullananalt Wind Farm]]></name>
+            <Point>
+                <coordinates>-6.90949,54.07694,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-esbihome_8-7">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Raheen Barr]]></name>
+            <Point>
+                <coordinates>-9.354435,53.899359,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-saorgushome_40-0">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Rathmooney]]></name>
+            <Point>
+                <coordinates>-6.175515,53.549924,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-42">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Richfield Wind Farm]]></name>
+            <Point>
+                <coordinates>-6.5919,52.2153,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-42">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sonnagh Old Wind Farm]]></name>
+            <Point>
+                <coordinates>-8.6391,53.1309,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-43">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Teevurcher Wind Farm]]></name>
+            <Point>
+                <coordinates>-6.9168,53.8857,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-b9home_1-9">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[TursillaghWind Farm]]></name>
+            <Point>
+                <coordinates>-9.5975,52.3144,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland#cite_ref-47">List of wind farms in the Republic of Ireland</a>]]></description>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>
