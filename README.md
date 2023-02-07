@@ -1,10 +1,4 @@
-# wind-energy-power-prediction
-A predictive modelling project for estimating power generated on a wind farm based on the wind and other weather data available for that farm.
 
-<<<<<<< HEAD
-=======
-**NOTE:** *My final code push update will be done on Tuesday evening as I'd been away for staycation on the weekend, and forgot to put in the charger of laptop while packing up stuff. I've updated the summary and initial code github link through my phone now.*
->>>>>>> fbdbdbb1ef4be7b0a0b3cdf996c63718afb55139
 
 # General Introduction:
 
@@ -34,15 +28,9 @@ The collection of the windfarms data (hyperlinks) are done through web scraping.
 
 + Later, each link is traversed and scraped to gather the windfarm stats like: no. of turbines, expected power generation, its latitude and longitude, and saved again into a list.
 
-<<<<<<< HEAD
 + Now, for each latitude, longitude retrieved, we call the Web API to gather all the weather information. 
 
 Now we concatenate the features we retrieved and the output information (power per turbine) and prepare our dataset.
-=======
-+ Now, for each latitude, longitude retreived, we call the Web API to gather all the weather information. 
-
-Now we concatenate the features we retreived and the output information (power per turbine) and prepare our dataset.
->>>>>>> fbdbdbb1ef4be7b0a0b3cdf996c63718afb55139
 
 ## EDA:
 
@@ -55,17 +43,12 @@ A few interesting insights were also brought up by plotting the graphs on the Ta
 + Regression plots showed that the wind direction was more correlated to the output column, than the speed
 + The input feature value range for each column had a specific range where majority of the wind farms operated. 
 
-<<<<<<< HEAD
 This could mean that the wind farms shared a common characteristic amongst themselves and that range characteristic could come in very handy while deciding a potential wind farm site. 
-=======
-This could mean that the wind farms shared a common characteric amongst themeselves and that range characteric could come in very handy while deciding a potential win farm site. 
->>>>>>> fbdbdbb1ef4be7b0a0b3cdf996c63718afb55139
 
 One interesting insight which was observed after plotting the distribution plot on wind direction was on the specific range of wind direction of the windfarms, which turned out to be in between 180-270. This direction corresponds to the winds coming from 3rd quadrant OR  in geographical terms, from South West. And since most the countries collected in the dataset are from Europe, the wind direction possibly mean the winds from Atlantic ocean which drives most of the wind energy generation in the continent. 
 
 ## Model Building:
 
-<<<<<<< HEAD
 The dataset is later scaled, transformed and split into train test datasets and a regression model is built. The best model is chosen through a model pipeline by trying a series of models along with cross validation. 
 
 We tried both linear model and the random forest regress or and tested the accuracy.
@@ -91,13 +74,3 @@ This script used the dataset collaborated above to develop a predictive model fo
 [EDA of Wind Farms](https://public.tableau.com/app/profile/nipun.bhushan/viz/scraped-windfarms-statistics-dashboard/BubbleMapofWindpowerGenerationperWindFarm)
 
 [Wind Power by Country Statistics](https://public.tableau.com/app/profile/nipun.bhushan/viz/wind-power-countries-statistics/Dashboard)
-=======
-The dataset is later scaled, transformed and splitted into train test datasets and a regression model is built. The best model is chosen through a model pipeline by trying a series of models along with cross validation. 
-
-We tried both linear model and the random forest regress or and tested the accuracy.
-
-The data gathering was done in 2 sections. For the features collection, basically the weather data (predominantly wind data : speed, direction and several other columns) was done through Web API. Thendat
-
-
-
->>>>>>> fbdbdbb1ef4be7b0a0b3cdf996c63718afb55139
